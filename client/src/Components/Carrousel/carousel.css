@@ -1,0 +1,20 @@
+
+.mt-100 {
+    margin: 50px 250px;
+    height: 400px;
+    display:flex;
+    justify-items: center !important;
+    
+
+}
+
+.carousel .carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    text-indent: -99px;
+    cursor: pointer;
+    border: 1px solid #fff;
+    
+    border-radius: 5px
+}

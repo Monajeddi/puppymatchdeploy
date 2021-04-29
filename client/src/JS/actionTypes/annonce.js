@@ -1,0 +1,8 @@
+export const ANNONCE_LOAD = "ANNONCE_LOAD"
+export const ANNONCE_SUCCESS = "ANNONCE_SUCCESS"
+export const ANNONCE_FAIL = "ANNONCE_FAIL"
+
+export const GET_ANNONCE = "GET_ANNONCE"
+
+export const TOGGLE_TRUE = "TOGGLE_TRUE"
+export const TOGGLE_FALSE = "TOGGLE_FALSE"

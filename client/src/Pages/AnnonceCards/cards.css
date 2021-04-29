@@ -1,0 +1,11 @@
+.annonce-card {
+    display: flex;
+    margin: 10px;
+    width: 300px;
+    height: 400px;
+    
+  }
+
+.btn-sm{
+    margin-right: 15px;
+}
