@@ -14,7 +14,7 @@ const Home = () => {
     <div className="cont hero">
         <div className="paragraph1">
             <h1>Puppy Match</h1>
-            <h1>hello</h1>
+            
           <h4>L'application qui connecte vos annimaux 
               <br/>
               de compagnie partout où vous êtes !
